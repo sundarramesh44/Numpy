@@ -33,3 +33,6 @@ with open('Applications_Electromagnetism.txt','w') as f10:
               - Medical imaging (MRI, CT scans)
               - Communication systems (radio, microwave)
               - Particle accelerators""")
+
+with open('Test_file.txt','w') as f11:
+  f11.write("Writing this text file to show the difference in git")  
